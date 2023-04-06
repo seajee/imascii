@@ -4,7 +4,7 @@ A simple image to Ascii text converter made with python and the Pillow library.
 
 ## Example
 
-![example](https://github.com/rixm/imascii/blob/main/assets/example.jpg)
+![example](./assets/example.jpg)
 
 ## Usage
 
