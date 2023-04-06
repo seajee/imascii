@@ -21,3 +21,6 @@ options:
   -s SCALE, --scale SCALE
   -c COLUMNS, --columns COLUMNS
 ```
+
+## Roadmap
+- Output to the terminal with colors
