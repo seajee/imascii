@@ -2,9 +2,11 @@
 
 A simple image to Ascii text converter made with python and the Pillow library.
 
+<!--
 ## Example
 
 ![example](./assets/example.jpg)
+-->
 
 ## Usage
 
